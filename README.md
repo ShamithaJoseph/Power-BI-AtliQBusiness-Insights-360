@@ -111,10 +111,10 @@ Executive Management, and Marketing. It aims to improve overall efficiency, redu
 
   - [x] Power BI: Building interactive dashboards using visuals like bar charts, line graphs, ribbon charts, KPIs, and slicers.
 
-  - [x] DAX (Data Analysis Expressions): Creating calculated columns and measures for key metrics (e.g., total revenue, YoY growth).
-
-  - [x] Data Modeling: Connecting and managing relationships between multiple tables (e.g., customers, products, sales).
-
+  - [x] DAX (Data Analysis Expressions): Creating calculated columns and measures for key metrics.
+        
+  - [x] Data Modeling: Connecting and managing relationships between multiple tables.
+        
   - [x] Data Cleaning & Transformation: Using Power Query to clean and prepare data before visualization.
 
   - [x] Business Intelligence Concepts: Understanding KPIs, performance metrics, and data storytelling.

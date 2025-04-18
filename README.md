@@ -9,26 +9,14 @@ Executive Management, and Marketing. It aims to improve overall efficiency, redu
 
 ### Finance View
 
-#### 🎯 Objectives:
-
   - Track and compare key financial metrics like Net Sales, Gross Margin, and Net Profit.
 
   - Visualize sales trends and performance over time vs benchmark and last year.
 
   - Identify top and bottom-performing regions, products, and customers.
 
-#### 🏆 Key Achievements:
-
-  - Increased Net Sales by 207% compared to benchmark.
-
-  - Highlighted key loss areas with -6.63% Net Profit for improvement focus.
-
-  - Enabled interactive filtering by year, region, and segment for quick insights.
-
 
 ### Supply Chain
-
-#### 🎯 Objectives:
 
   - Make better sales forecasts.
 
@@ -36,35 +24,17 @@ Executive Management, and Marketing. It aims to improve overall efficiency, redu
 
   - Find out which products and customers are doing well or not.
 
-#### 🏆 Key Achievements:
-
-  - Forecast accuracy is high – 80.21%, better than the goal.
-
-  - The error in sales predictions is smaller than expected (-751.7K).
-
-  - We can clearly see which products and customers performed best and worst.
 
 ### Sales View
-
-#### 🎯 Objectives:
 
   - Track how much each customer is spending and how much profit we make.
 
   - See which product types are selling the most and making good profit.
 
-  - Understand performance by region and improve unit economics (costs vs profits).
+  - Understand performance by region and improve unit economics.
 
-#### 🏆 Key Achievements:
-
-  - Total sales are $823.8M with a healthy gross margin of 36.49%.
-
-  - Top customers like Amazon and AtiiQ are bringing in high revenue and margin.
-
-  - Profitable product segments include Accessories and Peripherals with strong margins over 60%.
 
 ### Marketing View
-
-#### 🎯 Objectives:
 
   - Analyze product segments to see which ones are most profitable.
 
@@ -72,25 +42,10 @@ Executive Management, and Marketing. It aims to improve overall efficiency, redu
 
   - Understand cost structure and how it affects net profit.
 
-#### 🏆 Key Achievements:
-
-  - Achieved total sales of $823.8M with an overall gross margin of 36.49%.
-
-  - Identified Peripherals and Accessories as top-performing product segments.
-
-  - Pinpointed cost and margin breakdown, helping visualize profit drivers and areas for improvement.
-
 
 ### Executive View
 
-#### 🎯 Purpose
   - Give a quick summary of how the whole organization is doing.
-
-  - Help top management make smart decisions using data.
-
-#### 🏆 Key Achievements:
-
-  - Created a dashboard for leaders to track performance in real-time.
 
   - Shows revenue by division, customer, product, and sales channel.
 
